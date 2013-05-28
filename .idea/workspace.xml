@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a463a81-c84a-4196-b03b-f00e490a674b" name="Default" comment="" />
+    <ignored path="FaceTagger.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361277510300" ignored="false" />
+    <file path="/pom.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361277626764" ignored="false" />
+    <file path="/LBPFaceClient.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361371858195" ignored="false" />
+    <file path="/LBPFaceRecognizer.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361394614188" ignored="false" />
+    <file path="/fragment.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361302039399" ignored="false" />
+    <file path="$PROJECT_DIR$/../ThumbnailMaker/src/Demo.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361349751243" ignored="false" />
+    <file path="$PROJECT_DIR$/../ThumbnailMaker/src/se/svt/jolo/FaceRecogLogic.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361382294997" ignored="false" />
+    <file path="/FaceRecogLogic.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361382279246" ignored="false" />
+    <file path="/FaceLogic.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363794431538" ignored="false" />
+    <file path="$PROJECT_DIR$/../ThumbnailMaker/src/se/svt/jolo/FaceLogic.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361382441336" ignored="false" />
+    <file path="/FaceClient.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363635243807" ignored="false" />
+    <file path="/LBPFaceRecClient.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363776175292" ignored="false" />
+    <file path="$PROJECT_DIR$/../SliderLab/index.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361478759433" ignored="false" />
+    <file path="/index.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361478741780" ignored="false" />
+    <file path="$PROJECT_DIR$/../SliderLab/css/flexslider.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1361461711130" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/controllers/VideoPage.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/views/tags/videoList.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363961328022" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/views/VideoPage/video.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/services/TagUrlService.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="/a.dummy" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366880256209" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/src/template.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363598038480" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/debug/js/template.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363631818992" ignored="false" />
+    <file path="/FaceDetector.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363711913975" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/views/tags/head.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218063700" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/views/tags/searchResultList.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/models/Video.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/conf/application.conf" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364224435182" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/utils/Statistics.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363872999178" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/style.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/Properties.class" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363940729062" ignored="false" />
+    <file path="/application.conf" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363941692799" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/src/javascripts/src/parental-control.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460232997" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/deps.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228319201" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/s_code.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228319201" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/debug.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228319201" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/Gruntfile.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364291649468" ignored="false" />
+    <file path="/foot.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363965410052" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/app/views/tags/foot.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1363965410637" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/conf/routes" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/app/controllers/Alphabetic.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/app/views/main.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/script-built.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219593251" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/package.json" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/src/play/schedule.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/src/play/device.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/stylesheets/style.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219593251" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/app/views/Alphabetic/titles.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/stylesheets/svtplayer/_svtplayer.scss" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/stylesheets/play/_publicationframework.scss" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/src/play/parental-control.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/app/views/tags/includes/head_includes.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/src/play/play.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/src/play/libs/includes/svtplayer.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/stylesheets/play/variables/_colors.scss" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/stylesheets/play/mixins/_mq_mixins.scss" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364218409197" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/COPYING" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/COPYING" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/cobertura/code-coverage/controllers.CRUD.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/cobertura/code-coverage/index.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/cobertura/code-coverage/coverage.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/cobertura/code-coverage/controllers.CRUD.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/cobertura/code-coverage/js/popup.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/cobertura/code-coverage/js/sortabletable.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/cobertura/code-coverage/coverage.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/cobertura/code-coverage/js/popup.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/cobertura/code-coverage/js/sortabletable.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/cobertura/code-coverage/index.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/modules/cobertura-2.3/bin/documentation/manual/home.textile" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219207997" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/libs/modernizr.esitests.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219593251" ignored="false" />
+    <file path="$PROJECT_DIR$/../play4/public/javascripts/spec/alphabetic.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364219610818" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/accesslog-1.2/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113287" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/springtester-2.1/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/springtester-2.1/modules/spring-1.0.3/samples-and-tests/test/conf/application-context.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/spring-1.0.3/samples-and-tests/test/conf/application-context.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/springtester-2.1/samples-and-tests/demo/conf/application-context.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/tmp/bytecode/DEV/_app_views_errors_500.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/accesslog-1.2/documentation/manual/home.textile" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/springtester-2.1/modules/spring-1.0.3/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/modules/spring-1.0.3/build.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227113288" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/tmp/bytecode/DEV/_app_views_tags_responsive_image.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227434475" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/tmp/bytecode/DEV/_app_views_VideoPage_video.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227434475" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/tmp/bytecode/DEV/_app_views_tags_tagList.html" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364227434475" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/src/javascripts/libs/libs-compiled.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228942590" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/responsive-images.min.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228319201" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/jquery-1.8.2.min.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/modernizr.esitests.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228319201" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/src/javascripts/libs/responsive-images.min.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228942590" ignored="false" />
+    <file path="/parental-control.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364383930487" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/ielte8.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/ielte8-62bba1a835c88f0bf80c1dcfb86fecf6.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228239049" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/style-30c8412edab5d2243b5aea94e2cc6186.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364228239049" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/src/javascripts/spec/parentaltest.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460846149" ignored="false" />
+    <file path="/parentaltest.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460834650" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/src/javascripts/spec/test.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364306235553" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/mapping.json" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-2dc50221bc4f0adb61d4037f74e0f18a.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364368327572" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/spec/test.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364368866121" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/spec/parentaltest.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-e67da98d13cc468814a85c6a303b28bf.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364378434874" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/ielte8-bb4d1a99028b0cfd8a1dc6b98f0f8fa2.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/stylesheets/style-b205bbf6fe1514e7e5d49d7d8da937bb.css" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-f76b1429ca90decb72adeaf08848ad6b.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364382804847" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-5ff274c0f1a64e8f5f4b2606df53ab9e.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364383102808" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-55b52a47db95e7285bf748f468e02a4b.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364383817515" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/script-built-c9f8e1c50084b3ed8c3ebbe7e8218a41.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460222821" ignored="false" />
+    <file path="$PROJECT_DIR$/../oppet-arkiv/public/javascripts/libs/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1364460898256" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/widgets/svt/widget-svt-article/src/main/java/se/svt/mvc/controller/ArticleController.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366804284084" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/svt-core/src/main/resources/spring/svt-core-context.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366804284084" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/pom.xml" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366876295015" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/svt-utils/escenic-content-type-dao/target/content-type" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366876295015" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/svt-core/target/generated-sources/escenic-dao-generator/se/svt/mvc/dao/content/NewsDAO.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366876295015" ignored="false" />
+    <file path="$PROJECT_DIR$/../escenic/svt-core/target/generated-sources/escenic-dao-generator/se/svt/mvc/dao/content/NewsSummaryDAO.java" changelist="5a463a81-c84a-4196-b03b-f00e490a674b" time="1366876295015" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FaceTagger" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="cornel_mp4-379.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-379.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LBPFaceRecClient.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceRecClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="64" column="35" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.44208288">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cornel_mp4-380.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-380.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svtplayref_sport_mp4-2185.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/svtplayref_sport_mp4-2185.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sport_mp4-2138.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2138.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sport_mp4-2125.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2125.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sport_mp4-2220.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2220.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cornel_mp4-386.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-386.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svtplayref_cornel_mp4-439.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/svtplayref_cornel_mp4-439.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cornel_mp4-387.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-387.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/se/jolo/FaceTagger/LBPFaceRecognizer.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/FaceTagger/LBPFaceClient.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceClient.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceTrainingClient.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/FaceDetector.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/FaceClient.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceRecognizer.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceRecClient.java" />
+        <option value="$PROJECT_DIR$/src/se/jolo/facetagger/FaceLogic.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="OpenCV2 JavaCV FaceRec Lab" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="OpenCV2 JavaCV FaceRec Lab" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="OpenCV2 JavaCV FaceRec Lab" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FaceTagger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FaceTagger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oppet-arkiv/oppet-arkiv-webapp.ipr" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LBPFaceRecClient">
+    <configuration default="false" name="LBPFaceTrainingClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="se.jolo.facetagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="se.jolo.facetagger.LBPFaceTrainingClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FaceTagger" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FaceClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="se.jolo.facetagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="se.jolo.facetagger.FaceClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FaceTagger" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LBPFaceRecClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="se.jolo.facetagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="se.jolo.facetagger.LBPFaceRecClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FaceTagger" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FaceTagger" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.LBPFaceTrainingClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FaceClient" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LBPFaceRecClient" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.LBPFaceRecClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FaceClient" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LBPFaceTrainingClient" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a463a81-c84a-4196-b03b-f00e490a674b" name="Default" comment="" />
+      <created>1361277501959</created>
+      <updated>1361277501959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1087" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39864865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.054331865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.096354164" sideWeight="0.94959676" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13541667" sideWeight="0.94959676" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19959678" sideWeight="0.92083335" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/genimg/miljarder_mp4-2893.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceRecognizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="55" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_alt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/FaceDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="26" selection-start="2440" selection-end="2440" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/FaceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="83" selection-start="757" selection-end="757" vertical-scroll-proportion="-16.72">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/FaceLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="89" selection-start="631" selection-end="631" vertical-scroll-proportion="-6.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-379.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/jolo/facetagger/LBPFaceRecClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="35" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.44208288">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-380.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/svtplayref_sport_mp4-2185.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2138.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2125.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/sport_mp4-2220.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-386.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/svtplayref_cornel_mp4-439.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genimg/cornel_mp4-387.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.1 virtualenv at ~/.virtualenvs/enkat interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FaceTagger</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 2.7.1 virtualenv at ~/.virtualenvs/svtpejl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.13623978" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.googlecode.javacpp:javacpp:0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
